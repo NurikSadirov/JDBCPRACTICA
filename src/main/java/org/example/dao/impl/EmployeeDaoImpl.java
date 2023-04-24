@@ -113,7 +113,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 
                 ));
             }
-            System.out.println("Successfully get all Employees!!!");
+            System.out.println("Successfully  get all Employees!!!");
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
